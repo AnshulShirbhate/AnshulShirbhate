@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshulshirbhate&label=Profile%20views&color=0e75b6&style=flat" alt="anshulshirbhate" /> </p>
 
-- 🔭 I’m currently working on **Automated Web Application-Scanner**
 
 - 🌱 I’m currently learning **Next.js, AI/ML**
 
